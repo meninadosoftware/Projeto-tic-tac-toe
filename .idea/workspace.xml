@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c885d763-b7b1-49ee-bba4-7d86b6128748" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="identificador.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/camera/identificador.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="324" column="26" selection-start-line="324" selection-start-column="26" selection-end-line="324" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sr_driver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/braco/sr_driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DEPENDENCIAS.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DEPENDENCIAS.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>porta.aguarda_ok()</find>
+      <find>$PROJECT_DIR$/../agora vai</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>time.sleep(3)</replace>
+      <replace>..</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ConversoDePosiçao.py" />
+        <option value="$PROJECT_DIR$/foto.py" />
+        <option value="$PROJECT_DIR$/operators.py" />
+        <option value="$PROJECT_DIR$/braco/main.py" />
+        <option value="$PROJECT_DIR$/DEPENDENCIAS.txt" />
+        <option value="$PROJECT_DIR$/camera/foto.py" />
+        <option value="$PROJECT_DIR$/camera/mainvision.py" />
+        <option value="$PROJECT_DIR$/camera/foto_bk.py" />
+        <option value="$PROJECT_DIR$/camera/Vision.py" />
+        <option value="$PROJECT_DIR$/__main__.py" />
+        <option value="$PROJECT_DIR$/braco/teste_serial.py" />
+        <option value="$PROJECT_DIR$/braco/sr_driver.py" />
+        <option value="$PROJECT_DIR$/tictactoe/Tic.py" />
+        <option value="$PROJECT_DIR$/camera/identificador.py" />
+        <option value="$PROJECT_DIR$/main2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="106" />
+    <option name="y" value="-14" />
+    <option name="width" value="974" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="so deus na causa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="so deus na causa" type="462c0819:PsiDirectoryNode" />
+              <item name="braco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="so deus na causa" type="462c0819:PsiDirectoryNode" />
+              <item name="braco" type="462c0819:PsiDirectoryNode" />
+              <item name="sr_driver.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="so deus na causa" type="462c0819:PsiDirectoryNode" />
+              <item name="camera" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="so deus na causa" type="462c0819:PsiDirectoryNode" />
+              <item name="camera" type="462c0819:PsiDirectoryNode" />
+              <item name="identificador.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="so deus na causa" type="462c0819:PsiDirectoryNode" />
+              <item name="tictactoe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="so deus na causa" type="462c0819:PsiDirectoryNode" />
+              <item name="main2.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="so deus na causa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 2.7 (jogo final) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Projetos\Python\Jogo da velha\tictactoe" />
+      <recent name="A:\Projetos\Python\Jogo da velha\camera" />
+      <recent name="A:\Projetos\Python\Jogo da velha\braco" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Projetos\Python\Jogo da velha" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main2">
+    <configuration name="Desafio021-Playermp3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jogo da velha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio021-Playermp3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jogo da velha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="identificador" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jogo da velha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/camera" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/camera/identificador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jogo da velha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="teste_serial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jogo da velha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/braco" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/braco/teste_serial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.identificador" />
+      <item itemvalue="Python.__main__" />
+      <item itemvalue="Python.main2" />
+      <item itemvalue="Python.teste_serial" />
+      <item itemvalue="Python.Desafio021-Playermp3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main2" />
+        <item itemvalue="Python.Desafio021-Playermp3" />
+        <item itemvalue="Python.identificador" />
+        <item itemvalue="Python.teste_serial" />
+        <item itemvalue="Python.__main__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="A:\Projetos\Python\Dicionario\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="A:\Projetos\Python\Dicionario\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="A:\Projetos\Python\Dicionario\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="A:\Projetos\Python\Dicionario\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="A:\Projetos\Python\Dicionario\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="A:\Projetos\Python\Dicionario\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="A:\Projetos\Python\Dicionario\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="A:\Projetos\Python\Dicionario\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\miche\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c885d763-b7b1-49ee-bba4-7d86b6128748" name="Default" comment="" />
+      <created>1531846234308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531846234308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24904943" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.65584415" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32867134" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/camera/identificador.py</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="28" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/camera/mainvision.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConversoDePosiçao.py" />
+    <entry file="file://$PROJECT_DIR$/janela0.py" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/operators.py" />
+    <entry file="file://$PROJECT_DIR$/tabbuleiro2.py" />
+    <entry file="file://$PROJECT_DIR$/V.py" />
+    <entry file="file://$PROJECT_DIR$/ts002.py" />
+    <entry file="file://$PROJECT_DIR$/teste.py" />
+    <entry file="file://$PROJECT_DIR$/teste_foto.py" />
+    <entry file="file://A:/IDEsAmbientes/Anaconda3/Lib/site-packages/serial/utilities.py" />
+    <entry file="file://A:/IDEsAmbientes/Anaconda3/Lib/site-packages/serial/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/braco/driverMotores.py" />
+    <entry file="file://$PROJECT_DIR$/braco/main.py" />
+    <entry file="file://$PROJECT_DIR$/camera/foto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/mainvision.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/foto_bk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/Vision2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/python/envs/jogo final/Lib/site-packages/serial/serialwin32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1074">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/braco/teste_serial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/Vision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/img2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/part1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/part2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/part3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/part4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/part5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/part6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/part8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tictactoe/Tic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/part0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/imagem.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camera/identificador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DEPENDENCIAS.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagem.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio021.1-playerMp3PyGame.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio021-Playermp3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/braco/sr_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="324" column="26" selection-start-line="324" selection-start-column="26" selection-end-line="324" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

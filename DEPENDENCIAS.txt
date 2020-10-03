@@ -1,0 +1,3 @@
+OpenCV - Instalado pelo project interpreter
+numpy - instalado via pip
+pyserial - instalado via pip
